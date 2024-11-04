@@ -1,6 +1,13 @@
 Orthomosaicking Thermal Drone Images of Forests via Simultaneously Acquired RGB Images
 =======================================
 
+This Code DOES NOT BELONG TO ME (KADE MATHERS)
+I have made changes which are logged in the pdf "IntegratedOrthoFixWalkthrough.pdf" and have created a new environment "integrated_rgb_thermal_ortho_env.yml"
+These changes are to get the original repository working as many of the links are now out of date or no longer working.
+The Virtual environment "venv" from step 2 below is pre installed into the ODM folder and all the changes in the pdf have been made.
+Refer to the PDF for instruction on some other small changes in the config folders that may still need changing depending on use.
+I hope this repository helps if you were unable to use the original repo due to the missing files.
+
 This repository contains the official code implementation for the paper titled, "Orthomosaicking Thermal Drone Images of Forests via Simultaneously Acquired RGB Images", published as a featured research article in the MDPI Remote Sensing Journal.
 
 The paper can be found [at this link on the MDPI website](https://www.mdpi.com/2072-4292/15/10/2653).<br>
