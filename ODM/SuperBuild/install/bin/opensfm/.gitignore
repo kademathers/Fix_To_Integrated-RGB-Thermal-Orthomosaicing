@@ -28,4 +28,4 @@ data/berlin/*
 !data/berlin/images
 
 # Ignore virtualenv files
-env/*
+# env/*
